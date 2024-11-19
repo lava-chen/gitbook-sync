@@ -5,8 +5,11 @@
 ## 工程力学
 
 -   [工程力学课内笔记](gong-cheng-li-xue/README.md)
+    -   [扭转](gong-cheng-li-xue/扭转.md)
+    -   [平面图形的几何性质](gong-cheng-li-xue/平面图形的几何性质.md)
     -   [平面弯曲应力](gong-cheng-li-xue/13-ping-mian-wan-qu-ying-li.md)
 -   [公式总结](gong-cheng-li-xue/公式总结.md)
+-   [工程力学 wiki](gong-cheng-li-xue/wiki.md)
 
 ## 自然地理学
 
