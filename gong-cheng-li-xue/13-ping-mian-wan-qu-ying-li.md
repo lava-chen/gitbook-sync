@@ -113,4 +113,4 @@ $$\sigma = \frac{M_{max}}{W_z}=14.4Mpa$$
 
 2. 计算横截面的惯性矩
 
-$$I_z = \int_A \rho^2 dA$$
+$$I_z = $$

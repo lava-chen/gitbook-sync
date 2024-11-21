@@ -17,6 +17,7 @@
     -   [绪论](geography/绪论.md)
     -   [地壳](geography/地壳.md)
     -   [地貌](geography/地貌.md)
+    -   [土壤](geography/土壤.md)
 
 ## 测量学
 
@@ -28,3 +29,9 @@
     -   [控制测量](surveying/控制测量.md)
 -   [期末复习](surveying/期末复习.md)
 -   [测量学 wiki](surveying/wiki.md)
+
+## 大学物理
+
+-   [大学物理大纲](uni-pyhsics/README.md)
+    -   [磁场中的磁介质](uni-pyhsics/磁场中的磁介质.md)
+    -   [电磁感应](uni-pyhsics/电磁感应.md)
