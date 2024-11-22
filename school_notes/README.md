@@ -1,8 +1,7 @@
 ---
 icon: robot-astromech
-cover: cover.jpg
+cover: /school_notes/cover.jpg
 coverY: 0
-layout: landing
 ---
 
 Hello, guys! 🤖

@@ -9,4 +9,10 @@ layout: landing
 
 {% embed url="https://lavachen.gitbook.io/lava-note/school-notes" %}
 
-This is a collection of notes on various topics in computer science.
+坐着的项目文档：
+
+{% embed url="https://lavachen.gitbook.io/lava-note/project-notes" %}
+
+以及个人的博客网站：
+
+{% embed url="https://lavachen.org/" %}
