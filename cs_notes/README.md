@@ -9,7 +9,7 @@ layout: landing
 
 {% embed url="https://lavachen.gitbook.io/lava-note/school-notes" %}
 
-坐着的项目文档：
+作者的项目文档：
 
 {% embed url="https://lavachen.gitbook.io/lava-note/project-notes" %}
 
