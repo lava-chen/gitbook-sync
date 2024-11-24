@@ -8,3 +8,6 @@
 -   [CS 61B 数组](<CS61B/CS 61B数组.md>)
 -   [CS 61B 继承](<CS61B/CS 61B继承_1.md>)
 -   [CS 61B 渐进论](./CS61B/渐进论.md)
+-   [CS 61B 渐进论 2](./CS61B/渐进论ii.md)
+-   [CS 61B 不相交集](./CS61B/不相交集.md)
+-   [CS 61B ADT&BST](./CS61B/ADT&BST.md)
