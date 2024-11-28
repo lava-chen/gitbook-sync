@@ -13,3 +13,4 @@
 -   [CS 61B ADT&BST](./CS61B/ADT&BST.md)
 -   [CS 61B B 树](./CS61B/B树.md)
 -   [CS 61B 红黑树](./CS61B/红黑树.md)
+-   [CS 61B 哈希表](./CS61B/哈希.md)
