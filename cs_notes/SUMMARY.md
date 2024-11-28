@@ -11,3 +11,5 @@
 -   [CS 61B 渐进论 2](./CS61B/渐进论ii.md)
 -   [CS 61B 不相交集](./CS61B/不相交集.md)
 -   [CS 61B ADT&BST](./CS61B/ADT&BST.md)
+-   [CS 61B B 树](./CS61B/B树.md)
+-   [CS 61B 红黑树](./CS61B/红黑树.md)
