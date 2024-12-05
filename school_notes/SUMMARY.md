@@ -5,12 +5,14 @@
 ## 工程力学
 
 -   [工程力学课内笔记](gong-cheng-li-xue/README.md)
-    -   [扭转](gong-cheng-li-xue/10.扭转.md)
+    -   [10.扭转](gong-cheng-li-xue/10.扭转.md)
     -   [平面图形的几何性质](gong-cheng-li-xue/平面图形的几何性质.md)
-    -   [平面弯曲内力](gong-cheng-li-xue/12.平面弯曲内力.md)
-    -   [平面弯曲应力](gong-cheng-li-xue/13.平面弯曲应力.md.md)
-    -   [平面弯曲变形](gong-cheng-li-xue/14.平面弯曲变形.md)
-    -   [应力应变状态分析](gong-cheng-li-xue/15.应力应变状态分析.md)
+    -   [12.平面弯曲内力](gong-cheng-li-xue/12.平面弯曲内力.md)
+    -   [13.平面弯曲应力](gong-cheng-li-xue/13.平面弯曲应力.md.md)
+    -   [14.平面弯曲变形](gong-cheng-li-xue/14.平面弯曲变形.md)
+    -   [15.应力应变状态分析](gong-cheng-li-xue/15.应力应变状态分析.md)
+    -   [16.强度理论](gong-cheng-li-xue/16.强度理论.md)
+    -   [17.组合变形](gong-cheng-li-xue/17.组合变形.md)
 -   [公式总结](gong-cheng-li-xue/公式总结.md)
 -   [工程力学 wiki](gong-cheng-li-xue/wiki.md)
 

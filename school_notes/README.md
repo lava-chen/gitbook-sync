@@ -1,6 +1,6 @@
 ---
 icon: robot-astromech
-cover: /school_notes/cover.jpg
+cover: ./cover.jpg
 coverY: 0
 ---
 
