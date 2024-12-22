@@ -24,6 +24,7 @@
     -   [大气圈与气候系统](geography/大气圈与气候系统.md)
     -   [地貌](geography/地貌.md)
     -   [土壤](geography/土壤.md)
+- [期末复习](geography/自然地理期末复习.md)
 
 ## 测量学
 
