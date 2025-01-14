@@ -4,71 +4,85 @@
     "type": "split",
     "children": [
       {
-        "id": "0d1f3b0ef469aa9c",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "f7f6c775d104dabb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "school_notes/gong-cheng-li-xue/10.扭转.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "10.扭转"
-            }
-          },
-          {
-            "id": "fadbebd4c19e0b58",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "school_notes/gong-cheng-li-xue/9.杆的轴向拉压变形.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "9.杆的轴向拉压变形"
-            }
-          },
-          {
-            "id": "018ac19a82604148",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "school_notes/gong-cheng-li-xue/13.平面弯曲应力.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "13.平面弯曲应力"
-            }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
         "id": "203fda910d350ce8",
         "type": "tabs",
         "children": [
           {
-            "id": "c0c4383c38faf102",
+            "id": "3c6e1347e5c8f868",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "school_notes/gong-cheng-li-xue/courseware/第13章 平面弯曲应力.pdf"
+                "file": "school_notes/geography/课件/Chp2-1-234岩石.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "第13章 平面弯曲应力"
+              "title": "Chp2-1-234岩石"
+            }
+          },
+          {
+            "id": "cf08ccc89040c7c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "school_notes/geography/地壳.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "地壳"
+            }
+          },
+          {
+            "id": "bd8018f89bfbd69e",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "school_notes/gong-cheng-li-xue/courseware/第14章 平面弯曲变形.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "第14章 平面弯曲变形"
+            }
+          },
+          {
+            "id": "a319fa5deddf2c1c",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "school_notes/gong-cheng-li-xue/courseware/第2章 约束、约束力及受力分析.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "第2章 约束、约束力及受力分析"
+            }
+          },
+          {
+            "id": "8901e42cfb1fe1ea",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "school_notes/gong-cheng-li-xue/courseware/第0章 绪论.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "第0章 绪论"
+            }
+          },
+          {
+            "id": "f5233aa0668bf5b8",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "school_notes/gong-cheng-li-xue/courseware/第12章 平面弯曲内力.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "第12章 平面弯曲内力"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -124,7 +138,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 285.5
+    "width": 334.5
   },
   "right": {
     "id": "7703c6a5059fcf69",
@@ -209,26 +223,30 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "c0c4383c38faf102",
+  "active": "bd8018f89bfbd69e",
   "lastOpenFiles": [
-    "school_notes/gong-cheng-li-xue/courseware/第12章 平面弯曲内力.pdf",
     "school_notes/gong-cheng-li-xue/courseware/第13章 平面弯曲应力.pdf",
+    "school_notes/gong-cheng-li-xue/courseware/第12章 平面弯曲内力.pdf",
+    "school_notes/gong-cheng-li-xue/courseware/第9章 杆的轴向拉压变形.pdf",
+    "school_notes/gong-cheng-li-xue/courseware/第8章 材料力学的基本概念.pdf",
+    "school_notes/gong-cheng-li-xue/courseware/第18章 压杆的稳定性.pdf",
+    "school_notes/gong-cheng-li-xue/courseware/第10章 扭转.pdf",
+    "school_notes/gong-cheng-li-xue/courseware/第6章 空间任意力系的平衡.pdf",
+    "school_notes/gong-cheng-li-xue/courseware/第5章 平面任意力系的平衡.pdf",
+    "school_notes/gong-cheng-li-xue/courseware/第4章 力偶系的平衡.pdf",
+    "school_notes/gong-cheng-li-xue/courseware/第17章 组合变形.pdf",
+    "school_notes/gong-cheng-li-xue/courseware/第16章 强度理论.pdf",
+    "school_notes/geography/地壳.md",
+    "school_notes/surveying/期末复习.md",
+    "school_notes/uni-pyhsics/期末复习.md",
+    "school_notes/geography/自然地理期末复习.md",
     "school_notes/gong-cheng-li-xue/13.平面弯曲应力.md",
     "school_notes/gong-cheng-li-xue/9.杆的轴向拉压变形.md",
     "school_notes/gong-cheng-li-xue/12.平面弯曲内力.md",
-    "school_notes/gong-cheng-li-xue/courseware/第10章 扭转.pdf",
     "school_notes/gong-cheng-li-xue/10.扭转.md",
-    "school_notes/gong-cheng-li-xue/courseware/第9章 杆的轴向拉压变形.pdf",
-    "school_notes/geography/课件/Chp2-1-234岩石.pdf",
-    "school_notes/geography/课件/chp7 生物群落与生态系统.pdf",
-    "school_notes/geography/课件/自然地理复习大纲-期未2024(1).doc.pdf",
-    "school_notes/geography/课件/第六章 土壤圈 全.pdf",
-    "school_notes/geography/课件/Chp5-7海岸地貌.pdf",
-    "school_notes/geography/课件/Chp5-6风沙黄土地貌.pdf",
     "school_notes/gong-cheng-li-xue/公式总结.md",
     "school_notes/gong-cheng-li-xue/8.材料力学的基本概念.md",
     "school_notes/SUMMARY.md",
-    "school_notes/geography/自然地理期末复习.md",
     "school_notes/geography/README.md",
     "school_notes/geography/img/截屏2024-12-13 19.44.58.png",
     "school_notes/geography/img/截屏2024-12-13 19.44.46.png",
@@ -240,7 +258,6 @@
     "截屏2024-12-13 19.43.59.png",
     "school_notes/geography/img/截屏2024-12-13 19.01.52.png",
     "截屏2024-12-13 19.01.52.png",
-    "一分钟马原脚本.md",
-    "school_notes/surveying/期末复习.md"
+    "一分钟马原脚本.md"
   ]
 }
