@@ -5,7 +5,9 @@
 ## ELECTRON
 
 - [ELECTRON介绍](ELECTRON/ELECTRON.md)
-- [可拖动header](ELECTRON/组件/可拖动header.md)
+### 组件
+
+- [可拖动header](ELECTRON/组件/可拖动HEADER.md)
 - [button组件](ELECTRON/组件/BUTTON.md)
 - [sidebar组件](ELECTRON/组件/SIDEBAR.md)
 
