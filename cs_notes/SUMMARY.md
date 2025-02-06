@@ -2,6 +2,17 @@
 
 -   [Lavachen Doc](README.md)
 
+## ELECTRON
+
+- [ELECTRON介绍](ELECTRON/ELECTRON.md)
+- [可拖动header](ELECTRON/组件/可拖动header.md)
+- [button组件](ELECTRON/组件/BUTTON.md)
+- [sidebar组件](ELECTRON/组件/SIDEBAR.md)
+
+## REACT
+
+- [REACT介绍](REACT/REACT.md)
+
 ## CS61B 课程系列笔记
 
 -   [CS 61B 列表](<CS61B/CS 61B列表.md>)

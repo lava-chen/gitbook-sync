@@ -4,85 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "203fda910d350ce8",
+        "id": "aad0c02bb379bceb",
         "type": "tabs",
         "children": [
           {
-            "id": "3c6e1347e5c8f868",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "school_notes/geography/课件/Chp2-1-234岩石.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Chp2-1-234岩石"
-            }
-          },
-          {
-            "id": "cf08ccc89040c7c8",
+            "id": "c763953ebbec9ba4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "school_notes/geography/地壳.md",
+                "file": "cs_notes/SUMMARY.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "地壳"
-            }
-          },
-          {
-            "id": "bd8018f89bfbd69e",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "school_notes/gong-cheng-li-xue/courseware/第14章 平面弯曲变形.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "第14章 平面弯曲变形"
-            }
-          },
-          {
-            "id": "a319fa5deddf2c1c",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "school_notes/gong-cheng-li-xue/courseware/第2章 约束、约束力及受力分析.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "第2章 约束、约束力及受力分析"
-            }
-          },
-          {
-            "id": "8901e42cfb1fe1ea",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "school_notes/gong-cheng-li-xue/courseware/第0章 绪论.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "第0章 绪论"
-            }
-          },
-          {
-            "id": "f5233aa0668bf5b8",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "school_notes/gong-cheng-li-xue/courseware/第12章 平面弯曲内力.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "第12章 平面弯曲内力"
+              "title": "SUMMARY"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -138,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 334.5
+    "width": 209.5
   },
   "right": {
     "id": "7703c6a5059fcf69",
@@ -154,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "school_notes/surveying/期末复习.md",
+                "file": "cs_notes/SUMMARY.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "期末复习 的反向链接列表"
+              "title": "SUMMARY 的反向链接列表"
             }
           },
           {
@@ -200,18 +139,18 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "school_notes/surveying/期末复习.md"
+                "file": "cs_notes/SUMMARY.md"
               },
               "icon": "lucide-list",
-              "title": "期末复习 的大纲"
+              "title": "SUMMARY 的大纲"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -223,19 +162,27 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "bd8018f89bfbd69e",
+  "active": "c763953ebbec9ba4",
   "lastOpenFiles": [
+    "cs_notes/ELECTRON/ELECTRON.md",
+    "cs_notes/SUMMARY.md",
+    "cs_notes/ELECTRON/组件/BUTTON.md",
+    "cs_notes/ELECTRON/组件/可拖动HEADER.md",
+    "cs_notes/ELECTRON/组件",
+    "cs_notes/ELECTRON/组件/SIDEBAR.md",
+    "cs_notes/ELECTRON/ELECTRON-VITE.md",
+    "cs_notes/ESLINT.md",
+    "cs_notes/REACT/REACT.md",
+    "cs_notes/REACT",
+    "cs_notes/ELECTRON/img",
+    "cs_notes/ELECTRON/img/Pasted image 20250206135144.webp",
+    "school_notes/gong-cheng-li-xue/courseware/第14章 平面弯曲变形.pdf",
+    "cs_notes/ELECTRON",
     "school_notes/gong-cheng-li-xue/courseware/第13章 平面弯曲应力.pdf",
     "school_notes/gong-cheng-li-xue/courseware/第12章 平面弯曲内力.pdf",
     "school_notes/gong-cheng-li-xue/courseware/第9章 杆的轴向拉压变形.pdf",
     "school_notes/gong-cheng-li-xue/courseware/第8章 材料力学的基本概念.pdf",
     "school_notes/gong-cheng-li-xue/courseware/第18章 压杆的稳定性.pdf",
-    "school_notes/gong-cheng-li-xue/courseware/第10章 扭转.pdf",
-    "school_notes/gong-cheng-li-xue/courseware/第6章 空间任意力系的平衡.pdf",
-    "school_notes/gong-cheng-li-xue/courseware/第5章 平面任意力系的平衡.pdf",
-    "school_notes/gong-cheng-li-xue/courseware/第4章 力偶系的平衡.pdf",
-    "school_notes/gong-cheng-li-xue/courseware/第17章 组合变形.pdf",
-    "school_notes/gong-cheng-li-xue/courseware/第16章 强度理论.pdf",
     "school_notes/geography/地壳.md",
     "school_notes/surveying/期末复习.md",
     "school_notes/uni-pyhsics/期末复习.md",
@@ -257,7 +204,6 @@
     "截屏2024-12-13 19.44.08.png",
     "截屏2024-12-13 19.43.59.png",
     "school_notes/geography/img/截屏2024-12-13 19.01.52.png",
-    "截屏2024-12-13 19.01.52.png",
     "一分钟马原脚本.md"
   ]
 }
